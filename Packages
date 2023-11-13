@@ -1,0 +1,20 @@
+Package: bitwarden
+Version: 2023.10.0
+Architecture: amd64
+Maintainer: Bitwarden Inc. <hello@bitwarden.com>
+Installed-Size: 273058
+Depends: libnotify4, libxtst6, libnss3, libsecret-1-0, libxss1
+Recommends: libappindicator3-1
+Filename: ./Bitwarden-2023.10.0-amd64.deb
+Size: 74436204
+MD5sum: 2cb069c44c9f5de9363da638ba8997da
+SHA1: 21c0d8887262493a73f57ef73667fe8585f7761a
+SHA256: 07ff1eb2006dedf196a598c186c4380f54ced2e1216b4be159e664883d49cf64
+Section: default
+Priority: optional
+Homepage: https://bitwarden.com
+Description: A secure and free password manager for all of your devices.
+  A secure and free password manager for all of your devices.
+License: GPL-3.0
+Vendor: Bitwarden Inc. <hello@bitwarden.com>
+
